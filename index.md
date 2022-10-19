@@ -21,19 +21,32 @@ layout: default
     an ambiguous shape;
     an ambiguous future.
 
-## Word
+## Amulet
 
 blah
 
-## Word
+## Baleful
 
 *   Blah
 *   blah
 *   blah
 
-## Word
+## Boisterous
 
 blah
+
+## Calamity
+
+*   .
+
+## Ebullient
+
+*   .
+
+## Engrossed
+
+*   .
+
 
 ###### Header 6
 
