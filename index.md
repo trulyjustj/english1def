@@ -33,7 +33,7 @@ layout: default
 
 ## Boisterous
 
-blah
+*   blah
 
 ## Calamity
 
