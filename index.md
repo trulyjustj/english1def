@@ -9,9 +9,17 @@ layout: default
 
 
 
-## Word
+## Ambiguous
 
-blah
+*   open to or having several possible meanings or interpretations; equivocal:
+    an ambiguous answer.
+*   Linguistics. (of an expression) exhibiting constructional homonymity; having two or 
+    more structural descriptions, as the sequence Flying planes can be dangerous.
+*   of doubtful or uncertain nature; difficult to comprehend, distinguish, or classify:
+    a rock of ambiguous character.
+*   lacking clearness or definiteness; obscure; indistinct:
+    an ambiguous shape;
+    an ambiguous future.
 
 ## Word
 
