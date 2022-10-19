@@ -97,7 +97,9 @@ blah
 
 ## Meretricious
 
-*   .
+*   alluring by a show of flashy or vulgar attractions; tawdry.
+*   based on pretense, deception, or insincerity.
+*   relating to or characteristic of a prostitute.
 
 
 ###### Header 6
