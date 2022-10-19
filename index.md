@@ -95,6 +95,48 @@ layout: default
 
 *   .
 
+## Wanton
+
+*   .
+
+## Acuity
+
+*   .
+
+## Ascend
+
+*   .
+
+## Augment
+
+*   .
+
+## Disparage
+
+*   .
+
+##  Dissemble
+
+*   .
+
+##  Inauspicious
+
+*   .
+
+##  Inundate
+
+*   .
+
+##  Lament
+
+*   .
+
+##  Prate
+
+*   .
+
+
+
 ## Meretricious
 
 *   alluring by a show of flashy or vulgar attractions; tawdry.
