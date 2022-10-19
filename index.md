@@ -23,7 +23,7 @@ layout: default
 
 ## Amulet
 
-blah
+*   blah
 
 ## Baleful
 
@@ -44,6 +44,58 @@ blah
 *   .
 
 ## Engrossed
+
+*   .
+
+## Enmity
+
+*   .
+
+## Entreaty
+
+*   .
+
+## Feint
+
+*   .
+
+## Obsequious
+
+*   .
+
+## Penury
+
+*   .
+
+## Perjury
+
+*   .
+
+## Posterity
+
+*   .
+
+## Prostration
+
+*   .
+
+## Rancor
+
+*   .
+
+## Supple
+
+*   .
+
+## Vexation
+
+*   .
+
+## Virtuous
+
+*   .
+
+## Meretricious
 
 *   .
 
