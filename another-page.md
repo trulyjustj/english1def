@@ -6,4 +6,6 @@ layout: default
 
 _yay_
 
+Other Website: [https://trulyjustj.github.io/]
+
 [back](./)
